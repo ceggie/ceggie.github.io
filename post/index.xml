@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CEGGIE LYFE</title>
+    <link>http://ceggie.github.io/bookshelf/post/</link>
+    <description>Recent content in Posts on CEGGIE LYFE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Apr 2017 19:33:40 -0700</lastBuildDate>
+    
+	<atom:link href="http://ceggie.github.io/bookshelf/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>good to great</title>
+      <link>http://ceggie.github.io/bookshelf/post/good-to-great/</link>
+      <pubDate>Wed, 19 Apr 2017 19:33:40 -0700</pubDate>
+      
+      <guid>http://ceggie.github.io/bookshelf/post/good-to-great/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>day 1</title>
+      <link>http://ceggie.github.io/bookshelf/post/day-1/</link>
+      <pubDate>Wed, 19 Apr 2017 19:07:09 -0700</pubDate>
+      
+      <guid>http://ceggie.github.io/bookshelf/post/day-1/</guid>
+      <description>I make blog.</description>
+    </item>
+    
+  </channel>
+</rss>
